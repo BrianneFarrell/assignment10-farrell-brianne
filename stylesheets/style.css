@@ -36,6 +36,41 @@ header nav a:hover {
 	text-align: center;
 }
 
+.bottom-section {
+	color: grey;
+	padding:10px 0;
+}
+
+.contact-section {
+	padding: 10px 0;
+	width: 800px;
+	margin: 0 auto;
+  text-align: center;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.label_input_wrap {
+    vertical-align: middle;
+}
+
+input,
+textarea {
+    border: 1px solid black;
+    font-family: 'Libre Baskerville', serif;
+		padding: 8px 12px;
+}
+
+input[type="submit"] {
+    padding: 6px 52px;
+    background: #333;
+    color: white;
+    border: none;
+}
+
+#test_form div {
+    margin: 12px 0px;
+}
+
 footer {
 	background: #333;
 	text-align: right;
