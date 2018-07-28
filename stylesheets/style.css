@@ -36,25 +36,6 @@ header nav a:hover {
 	text-align: center;
 }
 
-.tour {
-	padding: 65px 0;
-  text-align: center;
-}
-
-.tour h1 {
-	font-size: 40px;
-	text-align: center;
-}
-
-.tour-info {
-	width: 250px;
-	display: inline-block;
-}
-
-.tour-info img {
-	width: 210px;
-}
-
 footer {
 	background: #333;
 	text-align: right;
