@@ -1,4 +1,4 @@
-<style>
+<style type="text/css">
 * {
 	margin:0;
 	padding: 0;
@@ -57,14 +57,13 @@ footer img {
   </nav>
 </header>
 
-  <div class="container">
+  <div class="container thank-you">
     <img src="images/reputation.png" alt="Taylor Swift" title="Taylor Swift" width="200px" align="left" />
     <h1>Thank you!</h1>
     <p>Thanks for your message. We have received it, and we will be in touch shortly.</p>
-    <p>Form processor provided by <a href="http://www.inventpartners.com">Invent Partners web design York</a>.</p>
   </div>
 
-footer>
+<footer>
       <div class="socialmedia">
         <a href="https://twitter.com/taylorswift13?lang=en"><img src="images/tw.png" alt="twitter" title="twitter" /></a>
         <a href="https://www.facebook.com/TaylorSwift/"><img src="images/fb.png" alt="facebook" title="facebook" /></a>
