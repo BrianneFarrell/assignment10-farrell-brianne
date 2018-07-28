@@ -1,0 +1,66 @@
+* {
+	margin:0;
+	padding: 0;
+	border: 0;
+}
+
+header {
+	background: #333;
+	padding: 10px 0;
+	position: fixed;
+	left: 0;
+	right: 0;
+}
+
+header nav ul li {
+	display: inline;
+}
+
+header nav a {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 20px;
+	margin: 0 20px;
+}
+
+header nav a:hover {
+	color: grey;
+}
+
+.hero-image-section {
+	background-image: url("../images/hero-image-ts.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	padding: 300px 0;
+	text-align: center;
+}
+
+.tour {
+	padding: 65px 0;
+  text-align: center;
+}
+
+.tour h1 {
+	font-size: 40px;
+	text-align: center;
+}
+
+.tour-info {
+	width: 250px;
+	display: inline-block;
+}
+
+.tour-info img {
+	width: 210px;
+}
+
+footer {
+	background: #333;
+	text-align: right;
+	padding: 10px 30px;
+}
+
+footer img {
+	width: 40px;
+}
